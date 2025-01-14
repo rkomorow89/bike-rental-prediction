@@ -1,6 +1,7 @@
 
-#change to your own source file location
-setwd("~/Daten-Orchestrierung/Auftrag Caner")
+# Change to your own source file location
+setwd("~/path/to/your/project/directory")
+
 
 # The Data Set (source: https://www.kaggle.com/datasets/aguado/bike-rental-data-set-uci?resource=download)
 #The existing bicycle rental systems in large cities have a system automated collection and return of the 
